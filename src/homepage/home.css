@@ -25,12 +25,21 @@
   font-family: 'main font';
   color: #eaeaea;
   text-align: center;
+  margin-bottom: 248px;
 }
 
 .textbody{
   align-self: center;
   max-width: 768px;
   padding: 50px;
+}
+
+.textbody h1 {
+  font-size: 2.4rem;
+}
+
+.textbody p {
+  font-size: 1.4rem;
 }
 
 .round-btn{
